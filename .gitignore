@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.zip
+bag_of_features/data/*
+bag_of_features/*.pth
